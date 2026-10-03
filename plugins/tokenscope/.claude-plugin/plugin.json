@@ -1,0 +1,11 @@
+{
+  "name": "tokenscope",
+  "version": "1.0.0",
+  "description": "Live token & USD observatory for Claude Code: per agent, subagent, workflow, task, skill and model, with prompt-cache countdowns, a model lock while the cache is warm, and subscription leverage",
+  "author": { "name": "Moaaz Homaid", "url": "https://github.com/moaazhomaid" },
+  "homepage": "https://github.com/moaazhomaid/claude-plugins/tree/main/plugins/tokenscope",
+  "repository": "https://github.com/moaazhomaid/claude-plugins",
+  "license": "MIT",
+  "keywords": ["tokens", "cost", "usage", "prompt-cache", "subagents", "dashboard"],
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "moaazhomaid",
+  "description": "Claude Code plugins by Moaaz Homaid",
+  "owner": { "name": "Moaaz Homaid", "url": "https://github.com/moaazhomaid" },
+  "plugins": [
+    {
+      "name": "tokenscope",
+      "source": "./plugins/tokenscope",
+      "description": "Live token & USD observatory: input / cache write / cache read / output per agent, task, skill and model, prompt-cache countdowns per model, a model lock while the cache is warm, and subscription leverage",
+      "version": "1.0.0",
+      "author": { "name": "Moaaz Homaid", "url": "https://github.com/moaazhomaid" },
+      "homepage": "https://github.com/moaazhomaid/claude-plugins/tree/main/plugins/tokenscope",
+      "category": "productivity",
+      "keywords": ["tokens", "cost", "usage", "prompt-cache"]
+    }
+  ]
+}

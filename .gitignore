@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+# laid by Claude Code at load time, per machine and build
+plugins/*/.claude-plugin/types/
+plugins/*/tsconfig.json
